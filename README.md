@@ -1,16 +1,19 @@
-### Hi there 👋
+# Saudações. Eu sou Jonatas 👋
 
-<!--
-**jonatas-pimenta/jonatas-pimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+É uma honra recebê-lo(a) em meu perfil do GitHub.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudante dedicado na área da tecnologia, em busca de explorar o vasto mundo da informática e acompanhar as últimas tendências no âmbito da tecnologia da informação (TI). Atualmente, estou profundamente engajado em uma jornada de aprendizado contínuo no campo da TI, explorando diversas áreas que abrangem desde o desenvolvimento de software até a administração de sistemas e a segurança da informação
+
+## Interesses
+
+- Desenvolvimento de software e aplicações web.
+- Administração de sistemas e redes.
+- Segurança da informação e cibersegurança.
+- Tecnologias emergentes como inteligência artificial, blockchain e computação em nuvem.
+
+## Objetivos
+
+Meu principal objetivo é continuar crescendo profissionalmente no campo da tecnologia da informação, ampliando meus conhecimentos e habilidades enquanto contribuo de maneira significativa para projetos inovadores. Desfruto colaborando com outros profissionais do setor e aprendendo com suas experiências para melhorar constantemente.
+

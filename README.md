@@ -15,5 +15,5 @@ Sou um estudante dedicado na área da tecnologia, em busca de explorar o vasto m
 
 ## Objetivos
 
-Meu principal objetivo é continuar crescendo profissionalmente no campo da tecnologia da informação, ampliando meus conhecimentos e habilidades enquanto contribuo de maneira significativa para projetos inovadores.
+Meu principal objetivo é continuar crescendo profissionalmente no campo da (T.I), ampliando meus conhecimentos e habilidades enquanto contribuo de maneira significativa para projetos inovadores.
 

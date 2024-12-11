@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jonatas!
 
-🎓 **Estudante de Tecnologia em Redes de Computadores**  
+🎓 **Estudante de Tecnologia da Informação**  
 Atualmente curso **Tecnologia em Redes de Computadores** na Fatec Indaiatuba, com previsão de conclusão em agosto de 2026. Durante minha formação, tenho me dedicado a projetos práticos e estudos complementares para consolidar meus conhecimentos em programação, computação em nuvem e inteligência artificial.  
 
 

@@ -14,6 +14,7 @@ Atualmente curso **Tecnologia em Redes de Computadores** na Fatec Indaiatuba, co
 
 
 💻 **Projetos Acadêmicos**
+
  🌐 **Infraestrutura em Nuvem com AWS**  
 Simulação de um ambiente corporativo utilizando AWS, com foco em segurança, escalabilidade e gerenciamento de acessos (IAM).  
 

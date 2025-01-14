@@ -21,8 +21,8 @@ Simulação de um ambiente corporativo utilizando AWS, com foco em segurança, e
  🤖 **Sistema de Pesquisa com IA Generativa**  
 Desenvolvimento de um buscador funcional em Python, integrado à API do ChatGPT, simulando o funcionamento de um motor de busca como o Google.  
 
-  📊 **Análise de Dados de Redes Locais**  
-Monitoramento de tráfego de rede local utilizando bibliotecas Python (Pandas, Matplotlib), gerando relatórios visuais e insights sobre o uso da banda.  
+  📊 **Automação de Consultas e Relatórios com Python:**  
+Desenvolvimento de script para automatizar consultas financeiras de clientes via Selenium e integração com planilhas Excel usando openpyxl. O projeto incluiu extração de dados de páginas web, categorização de status de pagamento, e geração automática de relatórios financeiros. 
 
 
 

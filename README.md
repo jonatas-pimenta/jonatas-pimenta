@@ -15,14 +15,10 @@ Atualmente curso Tecnologia em Redes de Computadores na FATEC Indaiatuba, com pr
 🌟 Sobre Mim
 Sou movido por desafios, apaixonado por tecnologia e entusiasta de soluções criativas com impacto real. Gosto de aprender na prática, construir projetos úteis e colaborar em equipes que valorizam a inovação e a evolução constante.
 
-📬 Contato
-
-📧 E-mail institucional: jonatas.pimenta@fatec.sp.gov.br
-
-📱 WhatsApp: 19 98152-0090
-
-💼 LinkedIn: linkedin.com/in/jonatas-pimenta
-
+📬 **Contato**  
+- 📧 E-mail institucional: [jonatas.pimenta@fatec.sp.gov.br](mailto:jonatas.pimenta@fatec.sp.gov.br)  
+- 📱 WhatsApp: [19 98152-0090](https://wa.me/5519981520090)  
+- 💼 LinkedIn: [linkedin.com/in/jonatas-pimenta](https://www.linkedin.com/in/jonatas-pimenta-9ab861288)
 
 📂 Explore meus repositórios
 Aqui no GitHub você encontrará projetos que desenvolvi nas áreas de redes, automação, scripts Linux, análise de dados, inteligência artificial e muito mais.

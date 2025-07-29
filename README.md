@@ -1,36 +1,28 @@
-# 👋 Olá, eu sou Jonatas!
+👋 Olá, eu sou o Jonatas!
 
-🎓 **Estudante de Tecnologia da Informação**  
-Atualmente curso **Tecnologia em Redes de Computadores** na Fatec, com previsão de conclusão em agosto de 2026. Durante minha formação, tenho me dedicado a projetos práticos e estudos complementares para consolidar meus conhecimentos em programação, computação em nuvem e inteligência artificial.  
+🎓 Estudante de Tecnologia da Informação – Redes de Computadores
+Atualmente curso Tecnologia em Redes de Computadores na FATEC Indaiatuba, com previsão de conclusão em agosto de 2026. Tenho me dedicado a projetos práticos e estudos complementares nas áreas de:
 
+🛠️ Infraestrutura de Redes e Cibersegurança
 
+☁️ Computação em Nuvem (AWS, Linux Server)
 
- 🚀 **Habilidades Técnicas**
-- **Python:** Desenvolvimento de automações e integração com APIs.  
-- **IA Generativa:** Aplicação prática de ferramentas como o ChatGPT.  
-- **AWS:** Configuração de infraestruturas seguras e escaláveis.  
-- **Big Data:** Análise e visualização de dados com Pandas e Matplotlib.  
+🤖 Inteligência Artificial Aplicada e Automação com Python
 
-
-
-💻 **Projetos Acadêmicos**
-
- 🌐 **Infraestrutura em Nuvem com AWS**  
-Simulação de um ambiente corporativo utilizando AWS, com foco em segurança, escalabilidade e gerenciamento de acessos (IAM).  
-
- 🤖 **Sistema de Pesquisa com IA Generativa**  
-Desenvolvimento de um buscador funcional em Python, integrado à API do ChatGPT, simulando o funcionamento de um motor de busca como o Google.  
-
-  📊 **Automação de Consultas e Relatórios com Python:**  
-Desenvolvimento de script para automatizar consultas financeiras de clientes via Selenium e integração com planilhas Excel usando openpyxl. O projeto incluiu extração de dados de páginas web, categorização de status de pagamento, e geração automática de relatórios financeiros. 
+💻 Desenvolvimento Web e Aplicações com Interface Gráfica
 
 
+🌟 Sobre Mim
+Sou movido por desafios, apaixonado por tecnologia e entusiasta de soluções criativas com impacto real. Gosto de aprender na prática, construir projetos úteis e colaborar em equipes que valorizam a inovação e a evolução constante.
 
-🌟 **Sobre Mim**
-Sou apaixonado por tecnologia, inovação e aprendizado constante. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos, crescer profissionalmente e colaborar em projetos de impacto.  
+📬 Contato
 
-📫 **Entre em contato:**  
-- E-mail: jonatas.pimenta@fatec.sp.gov.br  
+📧 E-mail institucional: jonatas.pimenta@fatec.sp.gov.br
+
+📱 WhatsApp: 19 98152-0090
+
+💼 LinkedIn: linkedin.com/in/jonatas-pimenta
 
 
-📂 **Explore meus repositórios e projetos aqui no GitHub!**
+📂 Explore meus repositórios
+Aqui no GitHub você encontrará projetos que desenvolvi nas áreas de redes, automação, scripts Linux, análise de dados, inteligência artificial e muito mais.
